@@ -1,0 +1,100 @@
+nav{
+    width: 95%;
+    height: 80px;
+    padding: 35px 0;
+    margin-left: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 20px;
+}
+
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+nav img{
+    height: 80px
+    
+}
+ .pages{
+    width: 85%;
+    margin: auto;
+    color: aqua;
+    align-items: center;
+    display: flex;
+    font-size: 17px;
+    padding: 35px 0;
+    
+}
+
+
+
+
+.mainImg{
+    height: 130%;
+    width: 130%;
+}
+
+.demo{
+    
+    position: absolute;
+    top: 42%;
+    left: 50%;
+    color: red;
+
+}
+
+h3{
+    position: absolute;
+    top: 52%;
+    left: 50%;
+    margin-top:  50%;
+    margin: 20px;
+    color: blue;
+}
+
+
+.link1 {
+    position: absolute;
+    top: 70%;
+    left: 40%;
+    margin-right: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color: green;
+    font-size: 20px;
+}
+
+.link2 {
+    position: absolute;
+    top: 70%;
+    left: 60%;
+    margin-right: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    color:rgb(105, 0, 128);
+    font-size: 20px;
+
+}
+
+.from{
+
+    width: 250px;
+    height: 280px;
+    background-color: crimson;
+    margin-left: 900px;
+    border-radius: 15px;
+    padding: 95px;
+    position: absolute;
+    left: 500px;
+    top:150px;
+    
+
+}
+

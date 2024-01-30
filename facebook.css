@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    color: rgb(20, 20, 222);
+    margin-top: 20%;
+    margin-left: 25%;
+    font-size: 80px;
+}
+p{
+   margin-top: 0px;
+   margin-left: 25%; 
+   font-size: 20px;
+   color: black;
+
+}
+
+
+.page{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 20%;
+    
+    
+.form{
+border: 2px solid black;
+background-color: white;
+padding: 30px 70px;
+border-radius: 10px;
+font-size: 30px;
+
+}
+}
+
+.test{
+
+
+text-align: center;
+background-color:blue ;
+font-size: 20px;
+width: 100%;
+color: white;
+
+}
+
+.demo{
+
+    background-color: green;
+    color: white;
+    font-size: 22px;
+    margin-left: 20px;
+
+}
+.sagar{
+    width: 100%;
+    height: 30px;
+}
+
+.barde{
+    width: 100%;
+    height: 30px;
+}
+h3{
+    margin-left: 61%;
+    margin-top: 9px;
+
+}

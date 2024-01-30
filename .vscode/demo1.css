@@ -1,0 +1,46 @@
+h1{
+    color: crimson;
+    background-color: gold;
+    align-items: center;
+    font-size: 50px;
+    padding: 25px;
+    text-align: center;
+    margin-top: 20px;
+    height: 35px;
+    
+    border-radius: 55px;
+}
+
+body{
+    background-color: darkslategrey;
+
+
+}
+h2{
+    padding: 25px;
+    color: aqua;
+    text-align: center;
+    font-size: 45px;
+    height: 30px;
+    background-color: green;
+    border: dotted;
+}
+
+h3{
+
+    padding: 25px;
+    color: chocolate;
+    text-align: center;
+    font-size: 45px;
+    background-color: darkviolet;
+    border-style: dashed;
+}
+h4{
+
+    padding: 28px;
+    color: darkorange;
+    background-color: springgreen;
+    font-size: 42px;
+    text-align: center;
+    border: double;
+}

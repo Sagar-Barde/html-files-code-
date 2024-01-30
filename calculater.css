@@ -1,0 +1,20 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+.contenar{
+    height: 100%;
+    width: 100vh;
+    background: #e3f9ff;
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+
+}
